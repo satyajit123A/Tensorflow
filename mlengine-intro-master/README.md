@@ -17,7 +17,7 @@ pip install pandas
 ```
 
 ```
-git clone https://github.com/cloudacademy/mlengine-intro.git
+git clone https://github.com/satyajit123A/Tensorflow/tree/master/mlengine-intro-master.git
 cd mlengine-intro/iris/trainer
 python iris.py
 ```
