@@ -1,0 +1,44 @@
+Open data is a very big movement and we want to encourage you to use open data for your project. But you are of course also allowed to use data from another source, including your company’s data. Finally, you are also allowed (although we don’t really encourage you to do so) to create a test data generator / simulator in case you want to support an interesting use case but can’t get hold of relevant data.
+
+Please take a moment and search for an open data set of your interest. Have a brief look at the data and decide on the use-case you want to implement.
+
+Here are some examples of open data sets
+
+https://opendata.cityofnewyork.us/
+
+https://www.kaggle.com/datasets
+
+And there a very nice and maintained list
+
+https://github.com/awesomedata/awesome-public-datasets
+
+Here are some examples of Use-Cases categories
+
+Examples from the IBM Call for Code Challenge
+
+- Use AI and bots to improve real-time communications with natural language processing => https://developer.ibm.com/callforcode/resources/translate/
+
+- Understand, analyze, and predict health and nutrition needs to improve services with data science => https://developer.ibm.com/callforcode/resources/healthcare/
+
+- Improve logistics based on traffic and weather activity to predict the number of people affected => https://developer.ibm.com/callforcode/resources/traffic-and-weather/
+
+- Collect and analyze device sensor data to take corrective or preventative action automatically => https://developer.ibm.com/callforcode/resources/preventative-action/
+
+- Use machine learning, deep learning, and visual recognition to improve critical processes => https://developer.ibm.com/callforcode/resources/visual-recognition/
+
+More generic examples:
+
+- Predicting the Best Retail Location
+
+- Detecting insurance fraud
+
+- Predicting crowd movement on public events
+
+- Predict heart rate based on activity
+
+- Optimize irrigation based on moisture sensor values and weather forecast
+
+- Predict production machine failure based on vibration sensor data
+
+Once you’ve come up with an interesting use-case and data set please move on the next week.
+
